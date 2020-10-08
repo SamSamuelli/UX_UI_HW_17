@@ -19,7 +19,7 @@
     padding: 15px;
     color: #D2C8BE;
   }
-  .left {
+  .left{
     height: 500px;
     float: left;
     background-color: #23231E;
@@ -27,7 +27,7 @@
     text-align: center;
   }
   
-  .right {
+  .right{
     height: 500px;
     float: left;
     background-color: #23231E;
@@ -35,28 +35,28 @@
     text-align: left;
   }
   
-  .typography h1 {
+  .typography h1{
     font-family: din-condensed, sans-serif;
     font-size: 80px;
     font-weight: 400;
     font-style: normal;
   }
   
-  .typography h2 {
+  .typography h2{
     font-family: din-condensed, sans-serif;
     font-size: 50px;
     font-weight: 300;
     font-style: normal;
   }
   
-  .typography h3 {
+  .typography h3{
     font-family: din-condensed, sans-serif;
     font-size: 40px;
     font-weight: 300;
     font-style: normal;
   }
   
-  .about-me {
+  .about-me{
     margin: 180px;
     padding-top: 400px;
     font-family: proxima-nova, sans-serif;
@@ -88,13 +88,10 @@
   
   .social-media{
     margin: 20px 0;
-  }
-  
-  .social-media a{
-    color: #D2C8BE;
     margin-right: 25px;
     font-size: 22px;
     text-decoration: none;
+    color: #D2C8BE;
   }
   
   .right-col h1{
